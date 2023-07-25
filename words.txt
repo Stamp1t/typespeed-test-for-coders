@@ -1,0 +1,18 @@
+LinkedList
+ArrayList
+For(int i=3; i<n; i++){
+HashMap
+TreeMap
+Queue
+sout
+Queue<Integer>
+LinkedList<String> list = new List;
+public void function(){
+PriorityQueue
+while(true){
+if(n>k){
+switch(string){
+case 1:
+(var1, var2) -> {
+Binary Search Tree
+int[] arr = new int[n];
