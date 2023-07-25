@@ -4,7 +4,7 @@
 
 ### Description
 
-This program is a simple Typing Speed Test. It will randomly display typical Java statements the user is supposed to type.
+This program is a simple Typing Speed Test written in Java. It will randomly display typical Java statements the user is supposed to type.
 While the program is running, it will automatically calculate the users typing speed and display it both during and after the test.
 Furthermore the user is able to add own words.
 
@@ -14,7 +14,7 @@ Furthermore the user is able to add own words.
 
 -the timer will start as soon as you type something in the Textbox
 
--the highlighter in the box at the stop of the screen will always show you which word you are supposed to type next
+-the highlighter in the box at the top of the screen will always show you which word you are supposed to type next
 
 -the program will display your current typespeed
 
