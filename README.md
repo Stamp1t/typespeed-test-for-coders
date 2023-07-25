@@ -15,6 +15,7 @@ Furthermore the user is able to add own words.
 -the timer will start as soon as you type something in the Textbox
 
 -the highlighter in the box at the stop of the screen will always show you which word you are supposed to type next
+
 -the program will display your current typespeed
 
 
